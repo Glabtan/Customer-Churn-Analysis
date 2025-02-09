@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 This project investigates the reasons behind customer churn and provides actionable insights to reduce attrition. The analysis includes data preprocessing, visualizations, and the development of a dashboard for decision-makers.
 
-# The dataset contains 26 columns, with details about customer demographics, service usage, and churn behavior. Key fields include:
+ The dataset contains 26 columns, with details about customer demographics, service usage, and churn behavior. Key fields include:
 
 - Demographics: Gender, SeniorCitizen, Partner, Dependents.
 - Services: InternetService, OnlineSecurity, PhoneService, etc.
